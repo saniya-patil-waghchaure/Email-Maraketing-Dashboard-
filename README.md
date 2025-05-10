@@ -38,5 +38,5 @@ To analyze and visualize email marketing campaign data, uncover user engagement 
 
 7 Screenshot
  
->  [Email_Marketing_Performance_Analysis ](https://github.com/user-attachments/assets/aa1fffd8-4a4b-4ba9-b604-9dd8446b6300)
- 
+  ![Email_Marketing_Performance_Analysis ](https://github.com/user-attachments/assets/66a057ca-6cf4-469f-bdb5-4aa7ee616663)
+
